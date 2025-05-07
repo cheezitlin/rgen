@@ -8,7 +8,12 @@ run this:
 ```
 git clone https://github.com/cheezitlin/rgen.git
 ```
-then CD to where it was cloned.
+then,
+
+```
+cd rgen
+```
+
 ******
 **step 2: installing rgen**
 
