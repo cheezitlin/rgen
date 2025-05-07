@@ -41,7 +41,7 @@ the output i got, was 15.
 ```
 rgen txt -l <length>
 ```
-*replace length with the length of the audio you want to use*
+*replace length with the length you want the output string to be*
 
 *for example:*
 ```
